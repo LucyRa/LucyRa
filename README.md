@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucyRa
-- 👀 I’m interested in creating simply beautiful frontends with efficient & clean backends
-- 🌱 I’m currently learning Laravel (+ livewire & jetstream), VueJS, GraphQL
-- 💞️ I’m looking to collaborate on custom user interfaces and web applications
+- 👀 I’m interested in creating simply beautiful programs
+- 🌱 I’m currently learning ['Go', 'lua', 'htmx', 'comp science'], with 6+ years as a web dev
+- 💞️ I’m looking to collaborate on web & embedded technologies
 - 📫 How to reach me lucy@lramplin.co.uk
 
 <!---
